@@ -13,7 +13,7 @@ The dashboard was built using the following tools and technologies:
 🧩 Data Modeling – Relationships across customer, contract, payment, and tenure data
 📁 File Formats – '.pbix' for development and '.png' for dashboard preview
 
-## 4️⃣ Data Source
+4️⃣ Data Source
 Source:Public customer churn dataset (telecom-style customer data). The dataset contains customer-level information including:
 * Customer demographics
 * Tenure (months)
