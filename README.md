@@ -6,8 +6,7 @@ An interactive and insight-driven Power BI dashboard designed to analyze custome
 The **Customer Churn Analytics Dashboard** is a visually engaging Power BI report created to help understand why customers leave, identify high-risk segments, and uncover key behavioral patterns.
 It enables data-driven decision-making for improving customer retention, optimizing contracts, and enhancing revenue stability.
 
-3️⃣ Tech Stack
-The dashboard was built using the following tools and technologies:
+3️⃣ Tech Stack : The dashboard was built using the following tools and technologies
 📊 Power BI Desktop– Primary platform for building interactive dashboards
 📂 Power Query– Used for data cleaning, transformation, and preparation
 🧠 DAX (Data Analysis Expressions)– For calculated measures such as churn rate, KPIs, and averages
@@ -89,7 +88,10 @@ Allow users to dynamically explore churn insights across multiple dimensions.
 * Revenue Protection:Understand churn’s impact on monthly charges and total revenue
 * Customer Segmentation:Enable data-driven prioritization of customer engagement efforts
 
- 6️⃣ Dashboard Preview : https://github.com/Anisha4020/Customer-Churn-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
+ 6️⃣ Dashboard Preview : 
+ ![Customer Churn Dashboard](https://github.com/Anisha4020/Customer-Churn-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
+
+ 
 ⭐ Notes (Optional but Recommended)
 * This project was created for learning and analytical practice purposes.
 * Focused on business storytelling through data visualization.
