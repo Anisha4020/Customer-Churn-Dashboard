@@ -89,8 +89,7 @@ Allow users to dynamically explore churn insights across multiple dimensions.
 * Revenue Protection:Understand churn’s impact on monthly charges and total revenue
 * Customer Segmentation:Enable data-driven prioritization of customer engagement efforts
 
- 6️⃣ Dashboard Preview
-
+ 6️⃣ Dashboard Preview : https://github.com/Anisha4020/Customer-Churn-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
 ⭐ Notes (Optional but Recommended)
 * This project was created for learning and analytical practice purposes.
 * Focused on business storytelling through data visualization.
