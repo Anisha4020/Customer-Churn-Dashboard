@@ -7,11 +7,17 @@ The **Customer Churn Analytics Dashboard** is a visually engaging Power BI repor
 It enables data-driven decision-making for improving customer retention, optimizing contracts, and enhancing revenue stability.
 
 3️⃣ Tech Stack : The dashboard was built using the following tools and technologies
+
 📊 Power BI Desktop– Primary platform for building interactive dashboards
+
 📂 Power Query– Used for data cleaning, transformation, and preparation
+
 🧠 DAX (Data Analysis Expressions)– For calculated measures such as churn rate, KPIs, and averages
+
 🧩 Data Modeling – Relationships across customer, contract, payment, and tenure data
+
 📁 File Formats – '.pbix' for development and '.png' for dashboard preview
+
 
 4️⃣ Data Source
 Source:Public customer churn dataset (telecom-style customer data). The dataset contains customer-level information including:
