@@ -1,4 +1,5 @@
-# 📊 Customer Churn Analytics Dashboard
+# Customer Churn Dashboard PowerBI
+1️⃣Project Title : 📊 Customer Churn Analytics Dashboard | Customer-Churn-Insights | Power BI
 An interactive and insight-driven Power BI dashboard designed to analyze customer churn behavior—focusing on retention trends, risk segmentation, contract types, payment methods, and revenue impact.
 
 2️⃣ Short Description
